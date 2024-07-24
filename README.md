@@ -56,3 +56,5 @@ I've been working as Software Tester since 2017 and I use this git to put here m
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![WEB](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=your-github-DambroskiGustavo)
