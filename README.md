@@ -10,7 +10,7 @@ I've been working as Software Tester since 2017 and I use this git to put here m
   <table>
     <tr>
         <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DambroskiGustavo&layout=compact&theme=dark"/>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=DambroskiGustavo&show_icons=true&theme=dark"/></td>
+        <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=DambroskiGustavo&show_icons=true&theme=dark"/></td>
     </td>
     </tr>
   </table>
