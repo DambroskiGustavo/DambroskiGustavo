@@ -1,5 +1,4 @@
 ## Hi there 👾
-***
 
 ### I'm Gustavo, welcome to my github!
 I've been working as Software Tester since 2017 and I use this git to put here my personal and professionals projects.
