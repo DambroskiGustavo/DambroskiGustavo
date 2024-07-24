@@ -52,7 +52,6 @@ I've been working as Software Tester since 2017 and I use this git to put here m
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 * Playwright
-* Selenium WebDriver
 * Junit
 * Jmeter
 * Robot Framework
